@@ -4,7 +4,7 @@
 * Select favorite rockets
 * Schedule time and date for space launch
 * Abort space launch
-* And review histry of previous and aborted launches.
+* And review history of previous and aborted launches.
 ## How to begin
 * Clone the project into your computer and open using your desired IDE
 * run npm install to install all project dependencies
